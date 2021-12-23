@@ -8,11 +8,11 @@ _Customer Care Specialist and Junior Frontend Developer based in Saint-Petersbur
 - __Telegram: @ozzthecat__
 
 ## Education 
- I studied Linguistics at Novosibirsk State University (National Research University) _(2015-2019)_
+ - I studied Linguistics at Novosibirsk State University (National Research University) _(2015-2019)_
 
- German language courses at Goethe Institute (B1) _(2015-2017)_
+ - German language courses at Goethe Institute (B1) _(2015-2017)_
 
- English language courses at local language school _(2015-2018)_
+ - English language courses at local language school _(2015-2018)_
 
 ## Work experience
 1. _March 2017 - January 2019_  
