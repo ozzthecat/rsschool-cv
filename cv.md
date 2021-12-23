@@ -1,10 +1,18 @@
 # Sonya Levi
 _Customer Care Specialist and Junior Frontend Developer based in Saint-Petersburg, Russia_
 
+
 ## Contacts
 - __E-mail: ozz.the.cat@gmail.com__
 - __Telephone: +79513889146__
 - __Telegram: @ozzthecat__
+
+## Education 
+ I studied Linguistics at Novosibirsk State University (National Research University) _(2015-2019)_
+
+ German language courses at Goethe Institute (B1) _(2015-2017)_
+
+ English language courses at local language school _(2015-2018)_
 
 ## Work experience
 1. _March 2017 - January 2019_  
@@ -26,10 +34,6 @@ In general, my daily duties included various types of customer support within th
 
  Now I am actively studying HTML, CSS, Javascript and Git in RS-School and about to start my first projects.
 
- ## Education 
- Novosibirsk State University (National Research University),
-_Linguistics_
-
 ## Languages
 - __Russian__ - first language, native proficiency
 - __English__ - advanced
@@ -45,5 +49,3 @@ Writeln(’Здравствуй, ’, N, ’ ’, S,’!’);
 Writeln(’Нажми Enter’); Readln;
 end.
 ```
-
-
